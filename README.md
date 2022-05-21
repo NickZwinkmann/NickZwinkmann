@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickZwinkmann
-- 👀 I’m interested in programming JavaScript
+- 👀 I’m interested in programming with JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaboration on some private
      projects
