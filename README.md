@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickZwinkmann
 - 👀 I’m interested in programming with JavaScript
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m currently working on some private projects with HTML, CSS, JS and PHP
+- 💞️ I’m currently working on some private projects with HTML, CSS, JS, PHP, React and Vue.js
 - 📫 How to reach me: nickzwinkmann@gmail.com
 
 <!---
